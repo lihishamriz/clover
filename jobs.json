@@ -1,0 +1,8 @@
+[
+  {
+    "name": "scrapeConfluence",
+    "lastRun": "2024-03-03T13:48:56.088Z",
+    "frequencyInMinutes": 10,
+    "tenantId": 1111
+  }
+]
